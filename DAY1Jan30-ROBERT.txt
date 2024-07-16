@@ -30,7 +30,7 @@ config t
 	 ip add 10._.100.2 255.255.255.0
 	 description VOICEVLAN
 
-!@@@LeafSwitchONLY
+!@@@LeafSwitchONLY - corebaba
 config t
    hostname COREbaba41
    enable secret pass
