@@ -165,7 +165,7 @@ intentionally hackable websites
 8. OWASP Mutillidae II
 9. HackThis!!
 
-task6: How to Make CUCM intentionally hackable to Learn
+task6: How to Make WILLING VICTIM intentionally hackable to Learn
 the Basics for Firewalls.
 before: nmap -v 10.m.100.8
 @Cucm:
